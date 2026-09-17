@@ -2,8 +2,6 @@
 
 [![MIT License](https://img.shields.io/github/license/matthetherington/GitHubPRExport?style=for-the-badge&labelColor=232925&color=0FBF3E)](https://choosealicense.com/licenses/mit/)
 
-[![CI](https://img.shields.io/github/actions/workflow/status/matthetherington/GitHubPRExport/publish.yml?style=for-the-badge&label=Publish%20to%20NuGet&labelColor=232925&color=0FBF3E)](https://github.com/matthetherington/Blazor-Memoire/actions/workflows/publish.yml)
-
 Exports all open and closed pull requests from a GitHub repository to a CSV containing:
 
 - Title
