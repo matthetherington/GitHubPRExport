@@ -6,6 +6,7 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <UserSecretsId>GitHubPRExport-66ba84f5-1476-4860-a599-c282288fe6ab</UserSecretsId>
+        <RestorePackagesWithLockFile>true</RestorePackagesWithLockFile>
     </PropertyGroup>
 
     <ItemGroup>
